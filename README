@@ -6,6 +6,7 @@ dmenu is an efficient dynamic menu for X.
 Requirements
 ------------
 In order to build dmenu you need the Xlib header files.
+For color emoji, `libxft-bgra` needs to be installed
 
 
 Installation
